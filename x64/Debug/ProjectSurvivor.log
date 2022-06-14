@@ -1,0 +1,16 @@
+﻿  ProjectSurvivor.cpp
+C:\Users\vnikolov\Desktop\Files\Uni\СДП\ProjectSurvivor\ProjectSurvivor\Utils.h(14,11): warning C4244: 'initializing': conversion from 'Uint32' to 'float', possible loss of data
+C:\Users\vnikolov\Desktop\Files\Uni\СДП\ProjectSurvivor\ProjectSurvivor\ProjectSurvivor.cpp(213,73): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\vnikolov\Desktop\Files\Uni\СДП\ProjectSurvivor\ProjectSurvivor\ProjectSurvivor.cpp(235,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\vnikolov\Desktop\Files\Uni\СДП\ProjectSurvivor\ProjectSurvivor\ProjectSurvivor.cpp(734,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\vnikolov\Desktop\Files\Uni\СДП\ProjectSurvivor\ProjectSurvivor\ProjectSurvivor.cpp(740,5): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\vnikolov\Desktop\Files\Uni\СДП\ProjectSurvivor\ProjectSurvivor\ProjectSurvivor.cpp(749,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\vnikolov\Desktop\Files\Uni\СДП\ProjectSurvivor\ProjectSurvivor\ProjectSurvivor.cpp(755,5): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\vnikolov\Desktop\Files\Uni\СДП\ProjectSurvivor\ProjectSurvivor\ProjectSurvivor.cpp(763,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\vnikolov\Desktop\Files\Uni\СДП\ProjectSurvivor\ProjectSurvivor\ProjectSurvivor.cpp(769,5): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\vnikolov\Desktop\Files\Uni\СДП\ProjectSurvivor\ProjectSurvivor\ProjectSurvivor.cpp(907,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\vnikolov\Desktop\Files\Uni\СДП\ProjectSurvivor\ProjectSurvivor\ProjectSurvivor.cpp(914,9): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\vnikolov\Desktop\Files\Uni\СДП\ProjectSurvivor\ProjectSurvivor\ProjectSurvivor.cpp(917,9): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\vnikolov\Desktop\Files\Uni\СДП\ProjectSurvivor\ProjectSurvivor\ProjectSurvivor.cpp(920,9): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\vnikolov\Desktop\Files\Uni\СДП\ProjectSurvivor\ProjectSurvivor\ProjectSurvivor.cpp(924,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  ProjectSurvivor.vcxproj -> C:\Users\vnikolov\Desktop\Files\Uni\СДП\ProjectSurvivor\x64\Debug\ProjectSurvivor.exe
